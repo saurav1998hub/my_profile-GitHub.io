@@ -1,0 +1,30 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Kanit';
+}
+#h1{
+margin: 7rem auto 0 auto;
+}
+p{
+font-stretch: ultra-expanded;
+padding-top: 2rem;
+margin: 0 auto;
+color: #45b29a;
+}
+
+.top_container{
+  background-color: #f9f9f920;
+  height:39.5rem;
+width: 100%;
+}
+.middle_1stcontainer{
+  background-color: #79bac1;
+  height:39.5rem;
+  width: 100%;
+}
+.middle_container{
+  background-color: #2a7886;
+  height:39.5rem;
+  width: 100%;
+}
